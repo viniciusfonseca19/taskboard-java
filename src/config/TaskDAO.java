@@ -1,3 +1,5 @@
+package config;
+
 import database.ConnectionFactory;
 import model.Task;
 
